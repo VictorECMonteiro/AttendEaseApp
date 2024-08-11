@@ -1,20 +1,5 @@
-<<<<<<< HEAD
-# attendeasemandroid
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
 # AttendEaseApp
->>>>>>> 6c1888cdb11035ecb72c901f0e4e852174c98651
+
+App AttendEase, usado para registrar frequência de alunos, feito para apresentação ExpoMA 2024
+
